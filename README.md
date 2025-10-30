@@ -5,7 +5,7 @@ I'm **Serhii!**
 
 ---
 
-### 🧩 About Me
+# 🧩 About Me
 - 🚀 Currently working on **small SDL3 / UE5 projects** to sharpen my game dev fundamentals.  
 - 📚 Learning **C++**, **Unreal Engine 5**, and **game AI systems**.  
 - 🧠 Interested in **engine design**, **optimization**, and **AI behavior**.  
@@ -13,7 +13,7 @@ I'm **Serhii!**
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

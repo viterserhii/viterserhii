@@ -6,7 +6,7 @@ I'm **Serhii!**
 ---
 
 ## 🧩 About Me
-- 🚀 Currently working on **small SDL3 project** to sharpen my game dev fundamentals.  
+- 🚀 Currently working on **small UE5 project** to sharpen my game dev fundamentals.  
 - 📚 Learning **C++**, **Unreal Engine 5**, and **game AI systems**.  
 - 🧠 Interested in **engine design**, **optimization**, and **AI behavior**.  
 - 🤝 Open to collaborating on small open-source or indie game projects.  

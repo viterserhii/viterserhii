@@ -11,7 +11,6 @@ I'm **Serhii!**
 - 📚 Learning **C++**, **Unreal Engine 5**, and **game AI systems**.
 - 🧠 Interested in **engine design**, **optimization**, and **AI behavior**.
 - 🤝 Open to collaborating on small open-source or indie game projects.
-- **Libraries:** SDL3 · SFML · Raylib
 
 ---
 
@@ -19,3 +18,4 @@ I'm **Serhii!**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,unreal,cmake,visualstudio,git,github&theme=dark)](https://skillicons.dev)
 
+**Libraries:** SDL3 · SFML · Raylib
